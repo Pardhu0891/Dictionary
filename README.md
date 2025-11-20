@@ -28,15 +28,9 @@ JSON for storing dictionary entries
 
 Difflib for close-match word suggestions
 
-📁 Project Structure
-Dictionary/
-│
-├── Dictionary_code.py        # Main Python application (Tkinter UI + logic)
-├── data_dictionary.json      # Dictionary data source (word → meaning)
-├── dict.png                  # Banner image displayed in GUI
-└── README.md                 # Project documentation
-
 ▶️ How to Run the Project
+
+
 1️⃣ Install Dependencies
 pip install pillow
 
@@ -52,10 +46,6 @@ dict.png
 
 3️⃣ Run the Application
 python Dictionary_code.py
-
-📸 Screenshots (Optional)
-
-Add screenshots of your GUI here if you want later.
 
 🧠 How It Works
 Loading the Dictionary
